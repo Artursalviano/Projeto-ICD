@@ -18,4 +18,4 @@ https://dados.gov.br/dataset/resultado-cnpc-2015/resource/b4388cdb-728c-4578-b60
 ## Análise de Dados de mobilidade do município de João Pessoa.
     
         Projeto final
-        Dados do CSV encontra-se em .rar pois é maior que 25mb
+        Dados do CSV encontra-se em .rar pois é maior que 25mb e atualizado
